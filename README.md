@@ -1,4 +1,4 @@
-Le filtre possède la grammaire suivante :    
+#Le filtre possède la grammaire suivante :    
   
 KEY : chaine de caractères représentant le nom d’une colonne  
 OP : = | !=  
